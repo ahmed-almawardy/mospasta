@@ -1,0 +1,32 @@
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env.local
+npm-debug.log*
+
+
+# others
+keys
+.jbeval
+
+
+# Python
+backend/.venv/
+backend/__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Editors
+.vscode/
+.idea/
+.DS_Store
+
+# compressed 
+*.zip
+*.rar
+
+
+# images
+*.jpeg
